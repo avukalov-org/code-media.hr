@@ -15,7 +15,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <footer class="footer sm:footer-horizontal bg-base-300 p-10">
+  <footer class="footer sm:footer-horizontal bg-base-300 p-10 container mx-auto lg:rounded-t-2xl">
     <nav>
       <h6 class="footer-title">
         Navigacija

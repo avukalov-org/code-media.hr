@@ -60,7 +60,7 @@ const cards = [
 
 <template>
   <div class="flex flex-col items-center lg:flex-row gap-8 my-8">
-    <div v-for="(card, i) in cards" :key="i">
+    <div v-for="(card, i) in cards" :key="i" class="hover:-translate-y-4 transition-all duration-200">
       <ProductRecommendationCard :card="card" />
     </div>
   </div>

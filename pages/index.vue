@@ -5,10 +5,10 @@
 <template>
   <div class="flex flex-col gap-16">
     <div
-      class="hero min-h-[calc(100dvh-16rem)]"
+      class="hero min-h-[calc(100dvh-16rem)] lg:rounded-b-2xl shadow-2xl"
       style="background-image: url(/images/hero-lg-7.jpg);"
     >
-      <div class="hero-overlay" />
+      <div class="hero-overlay lg:rounded-b-2xl" />
       <div class="hero-content text-neutral-content text-center">
         <div class="max-w-sm md:max-w-md xl:max-w-3xl">
           <h1 class="mb-5 text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold">
@@ -36,10 +36,10 @@
     </div>
 
     <div
-      class="hero min-h-[calc(100dvh-16rem)]"
+      class="hero min-h-[calc(100dvh-16rem)] lg:rounded-2xl shadow-2xl"
       style="background-image: url(/images/hero-lg-5.jpg);"
     >
-      <div class="hero-overlay" />
+      <div class="hero-overlay lg:rounded-2xl" />
       <div class="hero-content text-neutral-content text-center">
         <div class="max-w-sm md:max-w-md xl:max-w-3xl">
           <h1 class="mb-5 text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold">
