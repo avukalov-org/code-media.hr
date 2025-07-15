@@ -11,6 +11,8 @@ export default defineNuxtConfig({
     "@nuxt/icon",
     "@nuxtjs/color-mode",
     "@nuxt/image",
+    "@vee-validate/nuxt",
+    "nuxt-csurf",
   ],
   css: ["~/assets/css/main.css"],
   eslint: {
