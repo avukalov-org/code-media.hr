@@ -11,7 +11,7 @@
       <div class="hero-overlay lg:rounded-b-2xl" />
       <div class="hero-content text-neutral-content text-center">
         <div class="max-w-sm md:max-w-md xl:max-w-3xl">
-          <h1 class="mb-5 text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold">
+          <h1 class="mb-5 text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold">
             Vaš pouzdan partner za digitalnu transformaciju.
           </h1>
           <p class="mb-5 text-md md:text-xl xl:text-2xl font-semibold">
@@ -42,7 +42,7 @@
       <div class="hero-overlay lg:rounded-2xl" />
       <div class="hero-content text-neutral-content text-center">
         <div class="max-w-sm md:max-w-md xl:max-w-3xl">
-          <h1 class="mb-5 text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold">
+          <h1 class="mb-5 text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold">
             Zašto Odabrati Nas?
           </h1>
           <p class="mb-5 text-md md:text-xl xl:text-2xl">
