@@ -28,6 +28,7 @@
     "node-mailjet": "^6.0.8",
     "nuxt": "^3.17.5",
     "nuxt-csurf": "1.6.5",
+    "sharp": "^0.34.3",
     "tailwindcss": "^4.1.10",
     "vue": "^3.5.17",
     "vue-router": "^4.5.1",
@@ -36,7 +37,6 @@
   "devDependencies": {
     "@antfu/eslint-config": "^4.16.1",
     "@iconify-json/tabler": "^1.2.19",
-    "@tailwindcss/typography": "^0.5.16",
     "@vue/compiler-sfc": "^3.5.17",
     "daisyui": "^5.0.43",
     "drizzle-kit": "^0.31.2",

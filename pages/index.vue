@@ -17,7 +17,7 @@
           <p class="mb-5 text-md md:text-xl xl:text-2xl font-semibold">
             Profesionalna podrška, konkurentne cijene i najnoviji trendovi za Vaš uspjeh. Naš tim osigurava instalaciju, spašavanje podataka i održavanje računala, pružajući Vam mir i sigurnost.
           </p>
-          <NuxtLink to="/products" class="btn xl:btn-xl btn-primary">
+          <NuxtLink to="/proizvodi" class="btn xl:btn-xl btn-primary">
             Svi proizvodi
             <Icon name="tabler:shopping-bag" size="24" />
           </NuxtLink>

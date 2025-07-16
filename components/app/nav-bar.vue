@@ -32,10 +32,10 @@ onMounted(() => {
           <NuxtLink class="font-semibold" to="/">
             Početna
           </NuxtLink>
-          <NuxtLink class="font-semibold" to="/products">
+          <NuxtLink class="font-semibold" to="/proizvodi">
             Proizvodi
           </NuxtLink>
-          <NuxtLink class="font-semibold" to="/contact">
+          <NuxtLink class="font-semibold" to="/kontakt">
             Kontakt
           </NuxtLink>
         </div>
@@ -60,13 +60,13 @@ onMounted(() => {
       v-if="isOpen"
       class="absolute mt-16 w-screen bg-base-100 shadow-md z-1"
     >
-      <NuxtLink to="/" class="block px-4 py-2 hover:bg-gray-100" @click="isOpen = !isOpen">
+      <NuxtLink to="/" class="text-lg block px-4 py-3 hover:bg-gray-100 font-semibold" @click="isOpen = !isOpen">
         Početna
       </NuxtLink>
-      <NuxtLink to="/products" class="block px-4 py-2 hover:bg-gray-100" @click="isOpen = !isOpen">
+      <NuxtLink to="/proizvodi" class="text-lg block px-4 py-3 hover:bg-gray-100 font-semibold" @click="isOpen = !isOpen">
         Proizvodi
       </NuxtLink>
-      <NuxtLink to="/contact" class="block px-4 py-2 hover:bg-gray-100" @click="isOpen = !isOpen">
+      <NuxtLink to="/kontakt" class="text-lg block px-4 py-3 hover:bg-gray-100 font-semibold" @click="isOpen = !isOpen">
         Kontakt
       </NuxtLink>
     </div>

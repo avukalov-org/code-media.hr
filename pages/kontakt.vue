@@ -52,7 +52,7 @@ onBeforeRouteLeave(() => {
 </script>
 
 <template>
-  <div class="flex flex-col-reverse gap-16 lg:flex-row my-16">
+  <div class="flex flex-col gap-16 lg:flex-row mb-12 lg:my-16">
     <div
       class="hero min-h-[calc(100dvh-16rem)] max-w-4xl lg:rounded-2xl shadow-2xl"
       style="background-image: url(/images/why-us-2.jpg);"
