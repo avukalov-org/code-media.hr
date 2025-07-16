@@ -1,7 +1,21 @@
 @import "tailwindcss";
-@plugin "@tailwindcss/typography";
 @plugin "daisyui" {
   themes:
     corporate --default,
     business --prefersdark;
 }
+
+/* .inner-bottom-shadow {
+  position: relative;
+}
+
+.inner-bottom-shadow::after {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 6rem;
+  background: linear-gradient(to top, rgba(255,255,255), transparent);
+} */

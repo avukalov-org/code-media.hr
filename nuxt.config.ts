@@ -28,4 +28,9 @@ export default defineNuxtConfig({
   colorMode: {
     dataValue: "theme",
   },
+  image: {
+    domains: [],
+    dir: "public",
+    screens: { sm: 320, md: 640, lg: 1024 },
+  },
 });

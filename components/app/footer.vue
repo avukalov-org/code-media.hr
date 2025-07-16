@@ -23,10 +23,10 @@ onMounted(() => {
       <NuxtLink to="/" class="link link-hover">
         Početna
       </NuxtLink>
-      <NuxtLink to="/products" class="link link-hover">
+      <NuxtLink to="/proizvodi" class="link link-hover">
         Proizvodi
       </NuxtLink>
-      <NuxtLink to="/contact" class="link link-hover">
+      <NuxtLink to="/kontakt" class="link link-hover">
         Kontakt
       </NuxtLink>
     </nav>
