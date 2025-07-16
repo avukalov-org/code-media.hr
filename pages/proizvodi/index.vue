@@ -26,7 +26,7 @@ import { products } from "../../lib/mock-data";
               </h2>
             </div>
             <ul class="flex flex-col gap-1 max-h-36 overflow-hidden inner-bottom-shadow">
-              <li v-for="(info, i) in product.infos" :key="i">
+              <li v-for="(info, j) in product.infos" :key="j">
                 {{ info }}
               </li>
             </ul>
